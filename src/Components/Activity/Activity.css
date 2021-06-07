@@ -1,0 +1,17 @@
+.activity {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 110px;
+    padding-right: 110px;
+}
+
+.activity__months {
+    display: flex;
+    justify-content: space-around;
+    background-color: #e5e5e5;
+    padding: 10px;
+    border-radius: 13.5px;
+    width: 1049px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
